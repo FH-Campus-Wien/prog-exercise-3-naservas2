@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="at.ac.fhcampuswien.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-21T20:55:53" hostname="Stefans-MacBook-Pro.fritz.box" time="0.017">
+  <properties/>
+  <testcase name="camelCase1()" classname="at.ac.fhcampuswien.AppTest" time="0.017"/>
+  <system-out><![CDATA[Testing Exercise2
+Finished Testing Exercise2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
